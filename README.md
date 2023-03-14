@@ -15,4 +15,4 @@ python -m pip install -r requirements.txt
 ```
 
 ---
-Go check out the official repo for [customtkinter](https://github.com/TomSchimansky/CustomTkinter#readme) and what else the package can do.
+Go check out the official repo for [customtkinter](https://github.com/TomSchimansky/CustomTkinter#readme) and see what else the package can do.
