@@ -10,8 +10,7 @@ A simple calculator app made using Tom Schimansky's customtkinter package in Pyt
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./documentation_images/App.png">
-    <img src="./documentation_images/App.png">
+    <img src="./documentation_images/App.png" width="300px", height="402px">
   </picture>
 </p>
 
