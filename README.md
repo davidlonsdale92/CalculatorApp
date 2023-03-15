@@ -13,6 +13,10 @@ Install the required packages with pip:
 ```
 python -m pip install -r requirements.txt
 ```
+Then run:
+```
+python3 main.py
+```
 
 ---
 Go check out the official repo for [customtkinter](https://github.com/TomSchimansky/CustomTkinter#readme) and see what else the package can do.
