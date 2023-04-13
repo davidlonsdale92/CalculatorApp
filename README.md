@@ -8,11 +8,7 @@
 ---
 A simple calculator app made using Tom Schimansky's customtkinter package in Python. The application was designed to replicate the iOS calculator app and was built as a practice project to learn customtkinter. 
 
-<p align="center">
-  <picture>
-    <img src="./documentation_images/App.png" width="1400", height="500">
-  </picture>
-</p>
+![](documentation_images/App.png)
 
 ## Installation
 Install the required packages with pip:
