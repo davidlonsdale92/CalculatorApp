@@ -6,7 +6,7 @@
 </p>
 
 ---
-A simple calculator app made using the CustomTKinter package in Python. The application was designed to replicate the iOS calculator app and was built as a practice project to learn customtkinter. 
+A simple calculator app made using the CustomTKinter package in Python. The application was designed to replicate the iOS calculator app and was built as a practice project to learn CustomTKinter. 
 
 ![](documentation_images/App.png)
 
