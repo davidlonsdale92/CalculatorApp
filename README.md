@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 ```
 Then run:
 ```
-python3 main.py
+python parser.py -f input_file.txt -o output_file.txt -v
 ```
 
 ---

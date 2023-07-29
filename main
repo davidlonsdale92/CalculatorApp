@@ -19,7 +19,7 @@ class App(customtkinter.CTk):
         
         # Create Entry widget to display the input and output
         self.result = customtkinter.CTkEntry(self, font=("SF Display", 30), justify="right", text_color="#ffffff", 
-                                             placeholder_text="0", placeholder_text_color="#ffffff")
+                                             placeholder_text="0", placeholder_text_color="#ffffff", hover_color="#095140",)
         self.result.grid(row=0, column=0, columnspan=4, padx=(10,10), pady=10, ipadx=70, ipady=20)
 
         # Define button parameters in a dictionary
